@@ -7,6 +7,5 @@ Just put this .pbo file in the folder named 'MPmissions' in the Arma3 folder.
 
 This is not a Mission script, it just contains the scripts of the animations sequence.
 
-Structure of the codes may be a little bit chaotic..would be improved later.
 
 *****Thanks to Nikoaton, Xnooz and Direone, their animations make all these possible.
